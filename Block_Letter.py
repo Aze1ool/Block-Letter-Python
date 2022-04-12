@@ -1,6 +1,6 @@
-#Azamat Khafizov
-#Python
-#Project Name - Block Letters
+# Azamat Khafizov
+# Python
+# Project Name - Block Letters
 print("   A      ZZZZZZZ     A     M     M     A    TTTTTTT")
 print("  A A           Z    A A    MM   MM    A A      T   ")
 print(" A   A         Z    A   A   M M M M   A   A     T   ")
